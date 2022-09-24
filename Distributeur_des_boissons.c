@@ -1,3 +1,6 @@
+// GROUPE B, chef de groupe WILLIAM CHAM/ UPL BAC1£
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
